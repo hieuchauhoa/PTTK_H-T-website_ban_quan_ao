@@ -41,3 +41,4 @@ Phần mềm chạy tốt với độ phân giải màn hình chuẩn của máy
 ![img3.png](imgReadme/img3.png)
 ![img4.png](imgReadme/img4.png)
 ![img5.png](imgReadme/img5.png)
+![img6.png](imgReadme/img6.png)
